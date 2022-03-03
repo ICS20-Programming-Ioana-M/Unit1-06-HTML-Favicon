@@ -1,2 +1,1 @@
-# Unit1-06-HTML-Favicon
-this is the description box :D
+[![GitHub's SuperLinter](https://github.com//ICS20-Programming-Ioana-M/Unit1-06-HTML-Favicon/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com//ICS20-Programming-Ioana-M/Unit1-06-HTML-Favicon/actions)
